@@ -1,0 +1,39 @@
+-------------Antecedentes del machine learning--------------------
+
+> El conocimiento es la condición de conocer algo como familiaridad a través de experiencia. En nuestro caso, gracias a los sentidos
+  adquirimos experiencia.
+> El conocimiento también es el hecho de estar consciente de algo.
+> ¿Cómo guardamos el conocimiento?, con símbolos. El paradigma de la inteligencia artificial es utilizar símbolos para representar el 
+  conocimiento.
+> Un símbolo es cualquier caracter o string que pueda representar un objeto de la vida real.
+> Por lo mismo, la inteligencia artificial fue enfocada primeramente en problemas de lógia (matemáticos y lingüisticos).
+> Existen muchos tipos de conocimiento, factores simples, relaciones complejas, fórmulas metmáticas, etc.
+> La relación humano-computadora es necesaria para el conocimiento de la inteligencia artificial.
+
+> ¿Qué es el aprendizaje?, obtener conocimiento a través de la experiencia, el estudio, los sentidos, etc. Otro concepto viene de la 
+  memoria.
+
+-------------Machine Learning------------------
+> Machine learning: es el subcampo de las ciencias de la computación y rama de la IA, cuyo objetivo es desarrollar algorimtos que permitan
+  a las computadoras aprender.
+> Es hacer que las computadoras modifiquen o adapten sus acciones, que realizan predicciones o controlan un agente; para que esas acciones
+  tengan una mayor aptitud donde las acciones demuestran una mejor perspectiva de las acciones correctas.
+
+> ¿Qué es aprendizaje supervisado? Es la forma más común de aprender, conocida como programación por ejemplo. Los sistemas de aprendizaje
+  son entrenados mostrando ejemplos con la salida deseada. El sistema de aprendizaje hace una predicción de las salidas deseadas. Si la 
+  salida obtenida no es como la deseada, el sistema realiza ajustes para obtener el resultado. El sistema repite este proceso hasta que 
+  "aprende". 
+
+> ¿Qué es aprendizaje por refuerzo?, es un tipo de aprendizaje supervisado que no sabemos realmente cual es la salida deseada. Esta se
+  proporcionará bajo un contexto a través de un agente. El agente monitorea el entorno, si el agente realiza la acción correcta, se premia,
+  en caso contrario, se castiga. 
+> Un agente inteligente debe tener:
+	- Autonomía
+	- Movimiento
+	- Inteligencia (algoritmo de recompensa/castigo)
+
+-----------------Neurona de McCulloh Pitts----------------------------
+> Propuesto en 1943, utiliza dos datos 0 y 1.
+> Hace uso de una theta
+> No puede solucionar problemas que no sean linealmente separables. 
+
